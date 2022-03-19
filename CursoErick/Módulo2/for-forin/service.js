@@ -10,10 +10,10 @@ async function obeterPersonagens(name){
 
 obeterPersonagens('r2')
     .then((resultado)=>{
-        console.log(resultado)
+        // console.log(resultado)
     })
     .catch((error)=>{
-        console.log('erro' , error)
+        // console.log('erro' , error)
     })
 
     module.exports = {
