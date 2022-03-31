@@ -4,7 +4,7 @@ Imersão em desenvolvimento de APIs com Node.js
 
 Modulo 1 - Sincronia de funções Javascript(async/await) ✅
 
-Modulo 2 - Manipulação de listas 
+Modulo 2 - Manipulação de listas ✅
 
 Modulo 3 - Introdução a desenvolvimento de testes automatizados
 
